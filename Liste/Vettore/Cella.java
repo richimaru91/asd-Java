@@ -3,6 +3,9 @@ package Liste.Vettore;
 /**
  * Created by daniele on 07/07/16.
  */
+
+// commento di test
+
 public class Cella<T> {
 
     /**
